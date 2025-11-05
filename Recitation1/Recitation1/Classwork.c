@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h> //scanf(),
+#include <stdio.h> //scanf(), files i/o
 #include <stdlib.h> //standard library
 #include <time.h> //for time() function
 #include <ctype.h> //for tolower() function
@@ -151,11 +151,19 @@ for (int i = 1; i <= 3; i++) {
 //}
 
 int main() {
-	int arr[3] = { 100, 20, 30 };
-	int x = 1;
+	FILE* in; //file pointer 
+	in = fopen("data.txt", "r"); //opens data file as read only
+	printf("Opened data.txt successfully");
 
-	printf("%d", arr[3]); //out of bounds; will not throw exception but will send undesired value
+	if (in == NULL) { //checks if data.txt was successfully opened
+		perror("data.txt");
+		return 1;
+	}
 
+	printf("Opened data.txt successfully");
+	fclose(in); //closes file
+
+	return 0;
 }
 
 int ExampleFunction(int x, int y) { //define function

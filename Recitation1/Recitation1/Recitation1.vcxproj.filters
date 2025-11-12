@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodeInC.c">
+    <ClCompile Include="Recitation1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LinearMapping.c">
+    <ClCompile Include="RecitationProject2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="if__printf__scanf__examples.c">
+    <ClCompile Include="RecitationProject1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Classwork.c">
+    <ClCompile Include="LecturesPt1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RPS.c">
+    <ClCompile Include="RecitationProject3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

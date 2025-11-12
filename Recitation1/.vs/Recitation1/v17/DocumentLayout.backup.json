@@ -1,55 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\Recitation Projects\\Recitation1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3E9C22CE-CC4B-4361-A822-171CB3B6D1AE}|Recitation1\\Recitation1.vcxproj|C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\Recitation Projects\\Recitation1\\Recitation1\\Classwork.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3E9C22CE-CC4B-4361-A822-171CB3B6D1AE}|Recitation1\\Recitation1.vcxproj|solutionrelative:Recitation1\\Classwork.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E9C22CE-CC4B-4361-A822-171CB3B6D1AE}|Recitation1\\Recitation1.vcxproj|C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\Recitation Projects\\Recitation1\\Recitation1\\RPS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3E9C22CE-CC4B-4361-A822-171CB3B6D1AE}|Recitation1\\Recitation1.vcxproj|solutionrelative:Recitation1\\RPS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RPS.c",
-              "DocumentMoniker": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\Recitation Projects\\Recitation1\\Recitation1\\RPS.c",
-              "RelativeDocumentMoniker": "Recitation1\\RPS.c",
-              "ToolTip": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\Recitation Projects\\Recitation1\\Recitation1\\RPS.c",
-              "RelativeToolTip": "Recitation1\\RPS.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-13T00:46:09.597Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Classwork.c",
-              "DocumentMoniker": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\Recitation Projects\\Recitation1\\Recitation1\\Classwork.c",
-              "RelativeDocumentMoniker": "Recitation1\\Classwork.c",
-              "ToolTip": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\Recitation Projects\\Recitation1\\Recitation1\\Classwork.c",
-              "RelativeToolTip": "Recitation1\\Classwork.c",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJwAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-01T17:27:52.601Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

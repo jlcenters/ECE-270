@@ -9,25 +9,6 @@ LINK TO C DOCS: https://devdocs.io/c/
 printf() <----- from stdio.h; prints to console
 
 int a = 5 <---- declared as int, initialized as 5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 */
 /*
 main() {
@@ -132,16 +113,6 @@ float convertToF(float given) {
 	printf("The sum of digits of the number is %d\n", sumFor);
 
 }*/
-
-
-
-
-
-
-
-
-
-
 
 //int main() {
 	/*int num = 0, sum = 3;

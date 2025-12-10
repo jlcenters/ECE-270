@@ -1,10 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jillc\\OneDrive\\Documents\\GitHub\\ECE-270\\",
+  "WorkspaceRootPath": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jillc\\OneDrive\\Documents\\GitHub\\ECE-270\\Recitation1\\Recitation1\\Classwork.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Recitation1\\Recitation1\\Classwork.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSortTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Recitation1\\Recitation1\\BubbleSortTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\LecturesPt1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Recitation1\\Recitation1\\LecturesPt1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Recitation1\\Recitation1\\BubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSortTiming.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Recitation1\\Recitation1\\BubbleSortTiming.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jillc\\OneDrive\\Documents\\GitHub\\ECE-270\\Recitation1\\Recitation1\\Classwork.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +34,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BubbleSortTime.c",
+              "DocumentMoniker": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSortTime.c",
+              "RelativeDocumentMoniker": "Recitation1\\Recitation1\\BubbleSortTime.c",
+              "ToolTip": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSortTime.c",
+              "RelativeToolTip": "Recitation1\\Recitation1\\BubbleSortTime.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T02:12:31.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LecturesPt1.c",
+              "DocumentMoniker": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\LecturesPt1.c",
+              "RelativeDocumentMoniker": "Recitation1\\Recitation1\\LecturesPt1.c",
+              "ToolTip": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\LecturesPt1.c",
+              "RelativeToolTip": "Recitation1\\Recitation1\\LecturesPt1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T02:10:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSort.c",
+              "DocumentMoniker": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSort.c",
+              "RelativeDocumentMoniker": "Recitation1\\Recitation1\\BubbleSort.c",
+              "ToolTip": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSort.c",
+              "RelativeToolTip": "Recitation1\\Recitation1\\BubbleSort.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T02:09:53.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BubbleSortTiming.c",
+              "DocumentMoniker": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSortTiming.c",
+              "RelativeDocumentMoniker": "Recitation1\\Recitation1\\BubbleSortTiming.c",
+              "ToolTip": "C:\\Users\\jillc\\OneDrive\\Desktop\\Edu\\Fall 2025\\ECE270\\ECE-270\\Recitation1\\Recitation1\\BubbleSortTiming.c",
+              "RelativeToolTip": "Recitation1\\Recitation1\\BubbleSortTiming.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T02:09:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Classwork.c",
               "DocumentMoniker": "C:\\Users\\jillc\\OneDrive\\Documents\\GitHub\\ECE-270\\Recitation1\\Recitation1\\Classwork.c",
-              "RelativeDocumentMoniker": "Recitation1\\Recitation1\\Classwork.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\ECE-270\\Recitation1\\Recitation1\\Classwork.c",
               "ToolTip": "C:\\Users\\jillc\\OneDrive\\Documents\\GitHub\\ECE-270\\Recitation1\\Recitation1\\Classwork.c",
-              "RelativeToolTip": "Recitation1\\Recitation1\\Classwork.c",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\ECE-270\\Recitation1\\Recitation1\\Classwork.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-22T18:56:22.602Z",
               "EditorCaption": ""

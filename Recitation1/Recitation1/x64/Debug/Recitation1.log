@@ -1,8 +1,5 @@
-﻿  Classwork.c
-  CodeInC.c
-  if__printf__scanf__examples.c
-  LinearMapping.c
-  RPS.c
-  Generating Code...
-C:\Users\jillc\OneDrive\Desktop\Edu\Fall 2025\ECE270\ECE-270\Recitation1\Recitation1\RPS.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Recitation1.vcxproj -> C:\Users\jillc\OneDrive\Desktop\Edu\Fall 2025\ECE270\ECE-270\Recitation1\x64\Debug\Recitation1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Recitation1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  RecitationProject3.c
+C:\Users\jillc\OneDrive\Desktop\Edu\Fall 2025\ECE270\ECE-270\Recitation1\Recitation1\RecitationProject3.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jillc\OneDrive\Desktop\Edu\Fall 2025\ECE270\ECE-270\Recitation1\Recitation1\RecitationProject3.c(492,12): warning C4305: '=': truncation from 'double' to 'float'
+  Recitation1.vcxproj -> C:\Users\jillc\OneDrive\Desktop\Edu\Fall 2025\ECE270\ECE-270\Recitation1\x64\Debug\ClassFiles.exe

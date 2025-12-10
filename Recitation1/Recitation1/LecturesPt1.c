@@ -6,16 +6,19 @@
 
 int ExampleFunction(int a,int b); //declare function **REQUIRED** **param vars do not need to match function header
 void modify(int val, int* ref);
-
-//int main() {
-	/*int x1;//signed
+/*
+int main() {
+	int x1;//signed
 	int x2; //signed
 	long long int x3; //signed
 
 	unsigned int x4; //unsigned
 	x1 = 13;
 	x2 = 5;
-	printf("%d %f", x1,(float)(x1 + x2)); //typecasting*/
+	printf("%d %f", x1, (float)(x1 + x2)); //typecasting
+	return 0;
+}
+*/
 	//ask user to enter first, last name, and student id
 	/*
 
@@ -78,9 +81,10 @@ void modify(int val, int* ref);
 
 	//int retInt = ExampleFunction(0,10); //call function
 */
-	//
-	//
-	//
+
+
+
+
 	//POINTERS
 	/*
 	int num1 = 5;
@@ -149,6 +153,8 @@ for (int i = 1; i <= 3; i++) {
 	//return 0;
 
 //}
+
+//file I/O introduction
 /*
 int main() {
 	FILE* in; //file pointer 
@@ -166,6 +172,7 @@ int main() {
 	return 0;
 }
 */
+
 int ExampleFunction(int x, int y) { //define function
 	for (int i = x; i < y; i++) {
 		printf("Hello\n");
@@ -179,6 +186,7 @@ void modify(int val, int* ref) {
 }
 
 //file i/o practice
+/*
 int main() {
 	const char* filename = "inclassprogram.txt";
 	const char* filetext = "Jillian Centers Computer Engineering ECE 273, ECE 270, ECE 3171, IMSE 317 Prof. Hafiz Malik\n";
@@ -215,6 +223,10 @@ int main() {
 
 	return 0;
 }
+*/
+
+
+//file I/O introduction
 /*
 int main() {
 
